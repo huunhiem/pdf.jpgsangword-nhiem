@@ -1,0 +1,6 @@
+{
+  "name": "Chuyển Đổi PDF & Ảnh Sang Word Chuẩn Nghị Định 30",
+  "description": "Công cụ chuyển đổi tài liệu PDF và file ảnh sang Microsoft Word (.docx), giữ nguyên cấu trúc định dạng và tự động chuẩn hóa thể thức theo Nghị định 30/2020/NĐ-CP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
